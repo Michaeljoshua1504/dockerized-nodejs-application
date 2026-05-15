@@ -24,7 +24,7 @@ The project focuses on applying DevOps practices to automate the build and deplo
 ## Project Structure
 
 ```text
-dockerized-nodejs-application/
+Flutter-Web-Deployment-with-Docker-and-CI-CD/
 ├── index.html
 ├── main.dart.js
 ├── flutter.js
@@ -48,7 +48,7 @@ dockerized-nodejs-application/
 ## Build the Flutter Web Application
 
 ```bash
-flutter build web --base-href "/dockerized-nodejs-application/"
+flutter build web --base-href "/Flutter-Web-Deployment-with-Docker-and-CI-CD/"
 ```
 
 ---
@@ -109,7 +109,7 @@ This makes the application publicly accessible through a live URL.
 ## Live Demo
 
 ```text
-https://michaeljoshua1504.github.io/dockerized-nodejs-application/
+https://michaeljoshua1504.github.io/Flutter-Web-Deployment-with-Docker-and-CI-CD/
 ```
 
 ---
